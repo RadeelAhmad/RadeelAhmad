@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/iabdullah_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iabdullah_215" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-abdullah-691a1026a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah-691a1026a/" height="30" width="40" /></a>
-<a href="https://medium.com/iabdullah_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="iabdullah_215" height="30" width="40" /></a>
+<a href="https://radeel-a20.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="radeel-a20" height="30" width="40" /></a>
 <a href="https://discord.gg/iabdullah_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iabdullah_215" height="30" width="40" /></a>
 </p>
 
