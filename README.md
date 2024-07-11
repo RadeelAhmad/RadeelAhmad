@@ -1,3 +1,44 @@
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .typing-text {
+      font-family: Ubuntu, sans-serif;
+      font-size: 24px;
+      fill: #36BCF7;
+    }
+  </style>
+
+  <text x="10" y="40" class="typing-text">
+    <animate attributeName="opacity" dur="1s" values="0;1" keyTimes="0;1" repeatCount="indefinite" />
+    # Cyber Security Analyst;
+  </text>
+
+  <text x="10" y="40" class="typing-text" dy="2em">
+    <animate attributeName="opacity" dur="1s" values="0;1" keyTimes="0;1" repeatCount="indefinite" begin="0.2s" />
+    ✓ Programmer;
+  </text>
+
+  <text x="10" y="40" class="typing-text" dy="4em">
+    <animate attributeName="opacity" dur="1s" values="0;1" keyTimes="0;1" repeatCount="indefinite" begin="0.4s" />
+    ✓ Pentester;
+  </text>
+
+  <text x="10" y="40" class="typing-text" dy="6em">
+    <animate attributeName="opacity" dur="1s" values="0;1" keyTimes="0;1" repeatCount="indefinite" begin="0.6s" />
+    ✓ CTF Player;
+  </text>
+
+  <text x="10" y="40" class="typing-text" dy="8em">
+    <animate attributeName="opacity" dur="1s" values="0;1" keyTimes="0;1" repeatCount="indefinite" begin="0.8s" />
+    ✓ Red Teamer;
+  </text>
+
+  <text x="10" y="40" class="typing-text" dy="10em">
+    <animate attributeName="opacity" dur="1s" values="0;1" keyTimes="0;1" repeatCount="indefinite" begin="1s" />
+    ✓ Gamer;
+  </text>
+</svg>
+
+
 
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
