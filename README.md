@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
-<img style="display: block; margin: 0 auto; width: 100vw; height: 100vh; object-fit: contain;" alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2miLyuqauwt8H1MqRhDAIB&ust=1720782387324000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDWmq7snocDFQAAAAAdAAAAABAJ">
+<img style="display: block; margin: 0 auto; width: 100vw; height: 100vh; object-fit: contain;" alt="Coding" src="">
 
 ---
 
