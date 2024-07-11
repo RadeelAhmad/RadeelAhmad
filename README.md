@@ -6,11 +6,9 @@
 
 ## Certifications:
 <div style="text-align: center;">
-    <img src="Images/CC.png" alt="CC" width="150">
     <img src="Images/ISO.png" alt="Information Security Associate" width="150">
     <img src="Images/DevOps.png" alt="Microsoft DevOps" width="150">
-    <img src="Images/ICCA.png" alt="ICCA" width="100">
-    
+      
 ---
 
 ## Connect with me:
