@@ -1,10 +1,14 @@
-<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
   <style>
     .typing-text {
       font-family: Ubuntu, sans-serif;
       font-size: 24px;
       fill: #36BCF7;
-      animation: typing 3s steps(30, end);
+      animation: typing 4s steps(30, end);
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: .15em solid #36BCF7;
+      animation-iteration-count: infinite;
     }
     
     @keyframes typing {
@@ -20,6 +24,7 @@
   <text x="10" y="150" class="typing-text">✓ Red Teamer;</text>
   <text x="10" y="180" class="typing-text">✓ Gamer;</text>
 </svg>
+
 
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
