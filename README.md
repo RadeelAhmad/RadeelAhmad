@@ -6,7 +6,7 @@
 
 ## Certifications:
 <div style="text-align: center;">
-    <img src="Image/ISO.png" alt="Information Security Associate" width="150">
+    <img src="Image/ISO.png" alt="Information Security Associate" width="200">
     <img src="Image/SecOps.png" alt="Microsoft DevOps" width="150">
       
 ---
