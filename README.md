@@ -46,10 +46,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> 
     </a> 
-    <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://nmap.org/images/nmap.png" alt="nmap" width="40" height="40"/> 
+    <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/> 
     </a> 
     <a href="https://www.packettracer.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Cisco_packet_tracer_logo.png" alt="packet tracer" width="40" height="40"/> 
@@ -61,6 +61,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
 </p>
+
 
 
 ---
