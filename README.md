@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
-<img style="position: absolute; right: 0; top: 0; width: 200px; height: 100vh; object-fit: cover;" alt="Coding" src="Image/UI Developer.gif">
-
 
 ---
 
