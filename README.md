@@ -1,6 +1,4 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+NetworkSecurity;%E2%9C%93+CTF+Player+;%E2%9C%93+Red+Teamer;%E2%9C%93+Gamer)
-
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
 
@@ -49,19 +47,18 @@
         <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> 
     </a> 
     <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/> 
+        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nmap-icon.png" alt="nmap" width="40" height="40"/> 
     </a> 
     <a href="https://www.packettracer.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Cisco_packet_tracer_logo.png" alt="packet tracer" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cisco_packet_tracer_logo.svg/1024px-Cisco_packet_tracer_logo.svg.png" alt="packet tracer" width="40" height="40"/> 
     </a> 
     <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Snort_logo.png" alt="snort" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Snort_logo.svg/1024px-Snort_logo.svg.png" alt="snort" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
 </p>
-
 
 
 ---
