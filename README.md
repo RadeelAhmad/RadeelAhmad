@@ -49,11 +49,11 @@
     <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
         <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nmap-icon.png" alt="nmap" width="40" height="40"/> 
     </a> 
-    <a href="https://www.packettracer.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cisco_packet_tracer_logo.svg/1024px-Cisco_packet_tracer_logo.svg.png" alt="packet tracer" width="40" height="40"/> 
+    <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PacketTracer_icon.png/120px-PacketTracer_icon.png" alt="packet tracer" width="40" height="40"/> 
     </a> 
     <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Snort_logo.svg/1024px-Snort_logo.svg.png" alt="snort" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Snort-Logo.svg/120px-Snort-Logo.svg.png" alt="snort" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
