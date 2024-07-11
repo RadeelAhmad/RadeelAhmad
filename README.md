@@ -35,6 +35,6 @@
 
 ---
 
-- Reach me at **abdullah.MnM@proton.me**
+- Reach me at **mr.radeelahmad@gmail.com**
 
 ---
