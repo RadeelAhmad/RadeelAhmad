@@ -50,13 +50,13 @@
         <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> 
     </a> 
     <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-        <span style="font-size: 18px;">Nmap</span>
+        <span style="font-size: 18px;"> -Nmap- </span>
     </a> 
     <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> 
-        <span style="font-size: 18px;"> -Packet Tracer</span>
+        <span style="font-size: 18px;"> -Packet Tracer- </span>
     </a> 
     <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
-        <span style="font-size: 18px;"> -Snort</span>
+        <span style="font-size: 18px;"> -Snort- </span>
     </a> 
 
 </p>
