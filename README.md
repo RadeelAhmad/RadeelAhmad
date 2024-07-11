@@ -50,10 +50,10 @@
         <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nmap-icon.png" alt="nmap" width="40" height="40"/> 
     </a> 
     <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PacketTracer_icon.png/120px-PacketTracer_icon.png" alt="packet tracer" width="40" height="40"/> 
+        <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Cisco_Packet_Tracer_Icon.png" alt="packet tracer" width="40" height="40"/> 
     </a> 
     <a href="https://www.snort.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Snort-Logo.svg/120px-Snort-Logo.svg.png" alt="snort" width="40" height="40"/> 
+        <img src="https://avatars.githubusercontent.com/u/1916350?s=200&v=4" alt="snort" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
