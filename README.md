@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
+<img style="display: block; margin: 0 auto; width: 100vw; height: 100vh; object-fit: contain;" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&s">
 
-<img align="mid" alt="Coding" widht="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&s">
 ---
 
 ## Certifications:
