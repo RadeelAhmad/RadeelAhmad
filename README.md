@@ -1,8 +1,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Red+Teamer;%E2%9C%93+Gamer)
 
-<h1 align="center">Hi, I'm Abdullah aka !abdu11ah</h1>
-<h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Pentester | DevSecOps | Gamer |</h3>
+<h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
+<h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
 
 ---
 
