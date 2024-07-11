@@ -1,31 +1,4 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .typing-text {
-      font-family: Ubuntu, sans-serif;
-      font-size: 24px;
-      fill: #36BCF7;
-      animation: typing 4s steps(30, end);
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: .15em solid #36BCF7;
-      animation-iteration-count: infinite;
-    }
-    
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-  </style>
-
-  <text x="10" y="30" class="typing-text"># Cyber Security Analyst;</text>
-  <text x="10" y="60" class="typing-text">✓ Programmer;</text>
-  <text x="10" y="90" class="typing-text">✓ Pentester;</text>
-  <text x="10" y="120" class="typing-text">✓ CTF Player;</text>
-  <text x="10" y="150" class="typing-text">✓ Red Teamer;</text>
-  <text x="10" y="180" class="typing-text">✓ Gamer;</text>
-</svg>
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Red+Teamer;%E2%9C%93+Gamer&bounce=true&flip=true)
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
 
