@@ -1,4 +1,4 @@
-![Old Game Style Loading](https://svg.art/old-game-loading?font=Press+Start+2P&color=%2336BCF7&vCenter=true&height=35&lines=%23+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Red+Teamer;%E2%9C%93+Gamer)
+![Fading Typing SVG](https://svg.art/fading-typing?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Red+Teamer;%E2%9C%93+Gamer)
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
 
