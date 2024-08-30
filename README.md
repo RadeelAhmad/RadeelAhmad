@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=600&color=F71E19D6&width=435&lines=+Programmer;Networking;CTF+Player;Red+Teamer;Gamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=600&color=F71E19D6&vCenter=true&height=35&width=435&lines=+Programmer;Networking;CTF+Player;Red+Teamer;Gamer)](https://git.io/typing-svg)
+
+
 
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
