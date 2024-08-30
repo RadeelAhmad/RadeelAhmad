@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=Programmer;CTF+Player;Red+Teamer;Networking;Gamer)
 
 <h1 align="center">Hi, I'm Radeel aka V3c70r</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Red Teamer | Network Security | Network Pentester | Gamer |</h3>
