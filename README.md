@@ -10,6 +10,7 @@
 ## Certifications:
 <div style="text-align: center;">
     <img src="Image/cpts.png" alt="CPTS" width="150">
+    <img src="Image/MASTERMIND.png" alt="MASTERMIND" width="150">
     <img src="Image/ISO.png" alt="Information Security Associate" width="200">
     <img src="Image/SecOps.png" alt="CNSP" width="150">
       
